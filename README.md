@@ -2,7 +2,8 @@
 
 # sssuunnnm
 
-Kotlin·Compose로 안드로이드를 만들고, 필요하면 React·Spring Boot까지 풀사이클로 다룹니다. SSAFY 14기.
+Kotlin·Compose로 안드로이드를 만들고, 필요하면 React·Spring Boot까지 풀사이클로 다룹니다.
+SSAFY 14기.
 
 `Kotlin` `TypeScript` `Java` `Python` `React` `Spring Boot` `FastAPI` `Docker` `AWS`
 
