@@ -37,4 +37,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "output-cards"
           UTC_OFFSET: 9
-          THEME: "github"
+          THEME: "transparent"
