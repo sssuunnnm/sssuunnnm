@@ -15,11 +15,23 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
+      - name: prepare output-cards branch
+        run: |
+          git fetch origin output-cards:output-cards 2>/dev/null || true
+          if git show-ref --quiet refs/heads/output-cards; then
+            git checkout output-cards
+          else
+            git checkout --orphan output-cards
+            git rm -rf . > /dev/null 2>&1 || true
+            git commit --allow-empty -m "init output-cards branch"
+            git push origin output-cards
+          fi
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "output"
           UTC_OFFSET: 9
           THEME: "github"

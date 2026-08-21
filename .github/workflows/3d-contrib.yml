@@ -16,8 +16,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
-        with:
-          ref: output
+
+      - name: prepare output-3d branch
+        run: |
+          git fetch origin output-3d:output-3d 2>/dev/null || true
+          if git show-ref --quiet refs/heads/output-3d; then
+            git checkout output-3d
+          else
+            git checkout --orphan output-3d
+            git rm -rf . > /dev/null 2>&1 || true
+            git commit --allow-empty -m "init output-3d branch"
+            git push origin output-3d
+          fi
 
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
