@@ -35,3 +35,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
+      - name: commit & push
+        run: |
+          git add -A .
+          if git commit -m "generated"; then
+            git push origin output-3d
+          fi

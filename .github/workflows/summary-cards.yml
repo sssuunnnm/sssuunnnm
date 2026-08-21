@@ -35,5 +35,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "output-cards"
           UTC_OFFSET: 9
           THEME: "github"
