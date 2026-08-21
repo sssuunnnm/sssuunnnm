@@ -2,34 +2,36 @@
 
 # sssuunnnm
 
-Backend Developer
+Kotlin·Compose로 안드로이드를 만들고, 필요하면 React·Spring Boot까지 풀사이클로 다룹니다. SSAFY 14기.
+
+`Kotlin` `TypeScript` `Java` `Python` `React` `Spring Boot` `FastAPI` `Docker` `AWS`
 
 </div>
 
-> 글을 많이 쓰는 것보다, 다시 찾기 쉬운 구조를 만드는 데 집중하기로 했다.
->
-> — [이 블로그를 시작한 이유](https://sssuunnnm.github.io/dev-archive/study/why-i-started-this-blog/)
+## Projects
 
-Java, Spring, Docker, Redis로 서버를 만들고, 배운 건 [dev-archive](https://sssuunnnm.github.io/dev-archive/)에 위키처럼 정리해서 나중에 다시 찾아볼 수 있게 남겨둡니다.
+| 프로젝트 | 역할 | 스택 | 성과 |
+| --- | --- | --- | --- |
+| NGRAS | FE·BE·디자인 | React 19, FastAPI, Spring Boot, Kubernetes | 프로젝트 1위 · 전시발표회 1위 (전국 113팀) |
+| ShadowEng | PL·FE·인프라 | Kotlin, Compose, Docker, Jenkins, AWS | 1위 |
+| OneStep | UI/UX·FE | Kotlin, Compose, Mapbox, WebSocket | 3위 |
+| 라온트립 | FE 리더 | Flutter, Dart | 장려상 (한국관광공사) |
+| 실시간 멀티플레이 미니게임 | 1인 기획·개발·운영 | Firebase | 실사용자 대상 운영 |
 
-`Java` `Spring` `Docker` `Redis` `Astro` `Tailwind CSS`
+## Certifications
 
-## dev-archive에서
-
-| 분류 | 글 |
+| 자격증 | 취득일 |
 | --- | --- |
-| Development | [REST API 설계 원칙 정리](https://sssuunnnm.github.io/dev-archive/development/rest-api-design-principles/) |
-| Infra | [CI/CD란 무엇인가](https://sssuunnnm.github.io/dev-archive/infra/what-is-ci-cd/) |
-| CS | [윈도우 함수(Window Function)와 PARTITION BY](https://sssuunnnm.github.io/dev-archive/cs/window-function-basics/) |
-| Certificates | [AWS SAA-C03 합격 후기 — 2주 벼락치기로 774점 합격](https://sssuunnnm.github.io/dev-archive/certificates/aws-saa-c03-review/) |
-
-→ [전체 글 보기](https://sssuunnnm.github.io/dev-archive/articles/)
+| AWS SAA-C03 | 2026.07 |
+| ADsP | 2025.09 |
+| SQLD | 2024.04 |
+| 한국사능력검정 2급 | 2025.02 |
 
 ## Algorithm
 
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=sssuunnnm" alt="BOJ Tier" width="260" />
 
-## Connect
+## Contact
 
 <a href="https://github.com/sssuunnnm"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://sssuunnnm.github.io/dev-archive/"><img alt="Blog" src="https://img.shields.io/badge/Dev--Archive-4A7FC1?style=flat-square&logo=astro&logoColor=white"/></a>
