@@ -4,7 +4,7 @@
 
 Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만듭니다.
 
-<img alt="Tech Stack" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&hideBg=true&badge=%234A7FC1&titleColor=%234A7FC1&border=%236EC1E4&lineCount=2&line1=kotlin%2CKotlin%2Cauto%3Bjava%2CJava%2Cauto%3Btypescript%2CTypeScript%2Cauto%3Bpython%2CPython%2Cauto&line2=react%2CReact%2Cauto%3Bspringboot%2CSpring+Boot%2Cauto%3Bfastapi%2CFastAPI%2Cauto%3Bdocker%2CDocker%2Cauto%3Bamazonaws%2CAWS%2Cauto" />
+`Kotlin` `TypeScript` `Java` `Python` `React` `Spring Boot` `FastAPI` `Docker` `AWS`
 
 </div>
 
@@ -60,8 +60,6 @@ Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만�
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<img alt="GitHub 3D contribution graph" src="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output-3d/profile-3d-contrib/profile-night-view.svg" width="90%" />
 </div>
 
 ## Contact
