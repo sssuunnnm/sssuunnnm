@@ -19,6 +19,8 @@ jobs:
 
       - name: prepare output-3d branch
         run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin output-3d:output-3d 2>/dev/null || true
           if git show-ref --quiet refs/heads/output-3d; then
             git checkout output-3d
