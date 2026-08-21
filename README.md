@@ -36,9 +36,23 @@ Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만�
 
 ## Algorithm
 
+<div align="center">
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=sssuunnnm" alt="BOJ Tier" width="260" />
+</div>
+
+## Activity
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 ## Contact
 
+<div align="center">
 <a href="https://github.com/sssuunnnm"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://sssuunnnm.github.io/dev-archive/"><img alt="Blog" src="https://img.shields.io/badge/Dev--Archive-4A7FC1?style=flat-square&logo=astro&logoColor=white"/></a>
+</div>
