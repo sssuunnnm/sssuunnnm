@@ -22,7 +22,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin output-cards:output-cards 2>/dev/null || true
           if git show-ref --quiet refs/heads/output-cards; then
-            git checkout output-cards
+            git checkout -B output-cards origin/output-cards
           else
             git checkout --orphan output-cards
             git rm -rf . > /dev/null 2>&1 || true

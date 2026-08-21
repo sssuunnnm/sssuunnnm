@@ -23,7 +23,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git fetch origin output-3d:output-3d 2>/dev/null || true
           if git show-ref --quiet refs/heads/output-3d; then
-            git checkout output-3d
+            git checkout -B output-3d origin/output-3d
           else
             git checkout --orphan output-3d
             git rm -rf . > /dev/null 2>&1 || true
