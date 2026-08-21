@@ -62,8 +62,6 @@ Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만�
 </picture>
 
 <img alt="GitHub 3D contribution graph" src="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output-3d/profile-3d-contrib/profile-night-view.svg" width="90%" />
-
-<img alt="Productive Time" src="https://raw.githubusercontent.com/sssuunnnm/sssuunnnm/output-cards/profile-summary-card-output/transparent/4-productive-time.svg" />
 </div>
 
 ## Contact
