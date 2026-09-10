@@ -50,7 +50,6 @@ Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만�
 | AWS SAA-C03 | 2026.07 |
 | ADsP | 2025.09 |
 | SQLD | 2024.04 |
-| 한국사능력검정 2급 | 2025.02 |
 
 </div>
 
