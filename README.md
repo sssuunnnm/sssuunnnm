@@ -4,6 +4,7 @@
 
 Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만듭니다.
 
+<img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/>
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -33,6 +34,7 @@ Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만�
 
 | 프로젝트 | 역할 | 스택 | 주관 | 성과 |
 | :--- | :---: | :--- | :---: | :--- |
+| DevStreak | 1인 제품 개발 | SwiftUI, SwiftData, WidgetKit, GitHub API | 개인 | App Store 출시 · Local-first 기록 습관 앱 |
 | NGRAS | FE·BE·디자인 | React 19, FastAPI, Spring Boot, Kubernetes | 삼성전자 | 프로젝트 1위 · 전시발표회 1위 (전국 113팀) |
 | ShadowEng | PL·FE·인프라 | Kotlin, Compose, Docker, Jenkins, AWS | 삼성전자 | 1위 |
 | OneStep | UI/UX·FE | Kotlin, Compose, Mapbox, WebSocket | 삼성전자 | 3위 |
