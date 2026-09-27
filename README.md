@@ -35,7 +35,7 @@ Full-stack Developer · Kotlin·Compose, React, Spring Boot로 서비스를 만�
 | 프로젝트 | 역할 | 스택 | 주관 | 성과 |
 | :--- | :---: | :--- | :---: | :--- |
 | DevStreak | 1인 제품 개발 | SwiftUI, SwiftData, WidgetKit, GitHub API | 개인 | App Store 출시 · Local-first 기록 습관 앱 |
-| NGRAS | FE·BE·디자인 | React 19, FastAPI, Spring Boot, Kubernetes | 삼성전자 | 프로젝트 1위 · 전시발표회 1위 (전국 113팀) |
+| NGRAS | FE·BE·디자인 | React 19, FastAPI, Spring Boot, Kubernetes | 삼성전자 | 프로젝트 1위 · 전시발표회 1위 (전국 117팀) · 네트워크 사업부 연계|
 | ShadowEng | PL·FE·인프라 | Kotlin, Compose, Docker, Jenkins, AWS | 삼성전자 | 1위 |
 | OneStep | UI/UX·FE | Kotlin, Compose, Mapbox, WebSocket | 삼성전자 | 3위 |
 | 라온트립 | FE 리더 | Flutter, Dart | 한국관광공사 | 장려상 |
